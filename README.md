@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=AminelMhl&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AminelMhl&limit=5&theme=dark&combine_all_yearly_contributions=true)
